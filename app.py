@@ -3,6 +3,17 @@ import pandas as pd
 import joblib
 import investment_model
 
+st.markdown(
+    """
+    <style>
+    body {
+        background-color: white; /* Light grey background */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # Load the trained model
 model = joblib.load('investment_advisor_model.pkl')
 
