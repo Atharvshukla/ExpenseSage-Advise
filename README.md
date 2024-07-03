@@ -1,7 +1,7 @@
 
-  <h1 style="font-size: 24px; color: #0056b3;">Welcome to InvestPilot</h1>
+  <h1 style="font-size: 24px; color: #0056b3;">Welcome to ExpenseSage-Advise</h1>
 
-  <p style="font-size: 16px; color: #333;">InvestPilot leverages machine learning to provide personalized investment recommendations
+  <p style="font-size: 16px; color: #333;">ExpenseSage-Advise leverages machine learning to provide personalized investment recommendations
   based on your financial data, risk tolerance, and investment goals. This tool integrates
   data preprocessing, model training with RandomForestRegressor, and deployment using Streamlit
   for an intuitive user interface.</p>
